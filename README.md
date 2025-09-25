@@ -13,8 +13,8 @@ Your score = number of cars destroyed.
 
 ## How to run the game
 
-after build just run 
+after build just run
 
-qmake myapp.pro
-make
-./myapp
+-qmake myapp.pro
+-make
+-./myapp
