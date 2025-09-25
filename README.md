@@ -8,13 +8,13 @@ Your score = number of cars destroyed.
 ## Controls
 - R : Reload  
 - Space : Fire bullet  
-- Right Arrow : Move right
-- Left Arrow : Move left
+- Right Arrow : Move right  
+- Left Arrow : Move left  
 
 ## How to run the game
 
-after build just run
+After build just run:
 
--qmake myapp.pro
--make
--./myapp
+- qmake myapp.pro  
+- make  
+- ./myapp  
